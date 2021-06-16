@@ -100,12 +100,5 @@ editor.create();
 
 想加入 wangEditor 研发团队，可申请加入 QQ 群，然后私聊群主。
 
-## 为我们加油
-
-你的支持，将激励我们输出更多优质内容！
-
-![](./docs/imgs/wechat-pay.jpeg)
-![](./docs/imgs/ali-pay.jpeg)
-
 
 
