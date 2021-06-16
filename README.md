@@ -1,4 +1,4 @@
-# wangEditor
+# XEditor
 
 <!-- Badge -->
 ![Stars badge](https://img.shields.io/badge/stars-11.2-green)
